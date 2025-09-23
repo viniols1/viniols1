@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 
 ### 💻 Sobre mim | 💻 About me
 
-Sou estudante de tecnologia focado nessa primeira etapa de adaptação para que nos próximos dias seguintes eu siga desenvolvendo excelentes projetos. | I am a technology student focused on this first stage of adaptation so that in the following days I continue to develop excellent projects.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web e Cibersegurança. Em constante evolução, aplico tecnologia de forma prática e estratégica, preparado para atuar em projetos desafiadores na área de TI. | Systems Analysis and Development student, focused on Web Development and Cybersecurity. Constantly evolving, I apply technology in a practical and strategic way, ready to take on challenging IT projects.
 
 -   🔭 Atualmente estou procurando oportunidades na área de tecnologia. | 🔭 I am currently looking for opportunities in the technology field.
 -   🌱 Estudante de Análise e Desenvolvimento de Sistemas. | 🌱 Student of System Analysis and Development.
