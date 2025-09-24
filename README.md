@@ -28,6 +28,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho: | He
 
 ### 📈 Estatísticas do GitHub | 📈 GitHub Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=viniols1&show_icons=true&theme=dark&card_width=400" alt="Estatísticas do GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniols1&theme=dark&card_width=400&hide=jupyter%20notebook,c" alt="Linguagens Mais Usadas" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=viniols1&show_icons=true&theme=dark&card_width=370" alt="Estatísticas do GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniols1&theme=dark&card_width=370&hide=jupyter%20notebook,c" alt="Linguagens Mais Usadas" /></a>
 
 ---
