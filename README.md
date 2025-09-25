@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web e Cibersegurança. Em constante evolução, aplico tecnologia de forma prática e estratégica, preparado para atuar em projetos desafiadores na área de TI. | Systems Analysis and Development student, focused on Web Development and Cybersecurity. Constantly evolving, I apply technology in a practical and strategic way, ready to take on challenging IT projects.
 
--   🔭 Atualmente estou em busca de oportunidades na área de tecnologia. | 🔭 I am currently looking for opportunities in the technology field.
+-   🔭 Atualmente estou em busca de oportunidades na área de tecnologia. | I am currently looking for opportunities in the technology field.
 
 -   📫 Como me encontrar: www.linkedin.com/in/viniciusoliveira1s | 📫 How to find me: www.linkedin.com/in/viniciusoliveira1s
 
