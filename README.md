@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 
 ---
 
-### 💻 Sobre mim | 💻 About me
+### 💻 Sobre mim | About me
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web e Cibersegurança. Em constante evolução, aplico tecnologia de forma prática e estratégica, preparado para atuar em projetos desafiadores na área de TI. | Systems Analysis and Development student, focused on Web Development and Cybersecurity. Constantly evolving, I apply technology in a practical and strategic way, ready to take on challenging IT projects.
 
@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento
 
 ---
 
-### 🚀 Minhas Habilidades | 🚀 My Skills
+### 🚀 Minhas Habilidades | My Skills
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho: | Here are some of the technologies and tools I work with:
 
@@ -26,7 +26,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho: | He
 
 ---
 
-### 📈 Estatísticas do GitHub | 📈 GitHub Statistics
+### 📈 Estatísticas do GitHub | GitHub Statistics
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=viniols1&show_icons=true&theme=dark" alt="Estatísticas do GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniols1&theme=dark&hide=jupyter%20notebook,c&layout=compact" alt="Linguagens Mais Usadas" /></a>
 
