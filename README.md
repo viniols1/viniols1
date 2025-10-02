@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento
 
 -   🔭 Atualmente estou em busca de oportunidades na área de tecnologia. | I am currently looking for opportunities in the technology field.
 
--   📫 Como me encontrar: www.linkedin.com/in/viniciusoliveira1s | How to find me: www.linkedin.com/in/viniciusoliveira1s
+-   📫 Como me encontrar: | How to find me: www.linkedin.com/in/viniciusoliveira1s
 
 ---
 
