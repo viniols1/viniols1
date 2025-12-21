@@ -6,8 +6,6 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 
 ### 💻 Sobre mim | About me
 
-<h3 align="center">Sobre mim | About me</h3>
-
 <p align="center">
    🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Mackenzie.<br>
    💻 Foco em <b>Desenvolvimento Web</b> e <b>Cibersegurança</b>.
