@@ -7,8 +7,7 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 ### 💻 Sobre mim | About me
 
 <p align="center">
-   🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Mackenzie.<br>
-   💻 Foco em <b>Desenvolvimento Web</b> e <b>Cibersegurança</b>.
+   🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Mackenzie</b>.<br>
    <br><br>
    <i>"Aplico tecnologia de forma prática e estratégica, preparado para projetos desafiadores."</i>
 </p>
@@ -18,8 +17,7 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 </p>
 
 <p align="center">
-   🎓 Systems Analysis and Development student at <b>Mackenzie University</b>.<br>
-   💻 Focused on <b>Web Development</b> and <b>Cybersecurity</b>.
+   🎓 <b>Systems Analysis and Development</b> student at <b>Mackenzie University</b>.<br>
    <br><br>
    <i>"I apply technology in a practical and strategic way, ready for challenging IT projects."</i>
 </p>
@@ -27,7 +25,8 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 <br>
 
 <p align="center">
-  🔭 <b>Status:</b> Em busca de oportunidades em TI / Looking for Tech opportunities<br>
+  🔭 <b>Status:</b> Em busca de oportunidades em Análise de Dados e Cibersegurança / Seeking opportunities in Data Analysis and Cybersecurity<br>
+   <br>
   📫 <b>Contato:</b> <a href="https://www.linkedin.com/in/viniciusoliveira1s">LinkedIn</a>
 </p>
 
