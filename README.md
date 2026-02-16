@@ -34,7 +34,7 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 
 ### 🚀 Minhas Habilidades | My Skills
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho: | Here are some of the technologies and tools I work with:
+Aqui estão algumas das tecnologias com as quais eu trabalho: | Here are some of the technologies I work with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -45,7 +45,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho: | He
    <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge">
    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
    <br>
    <br>
    <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=pre-commit&logoColor=white" alt="Cybersecurity">
