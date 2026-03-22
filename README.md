@@ -25,7 +25,7 @@ Bem-vindo(a) ao meu perfil. | Welcome to my profile.
 <br>
 
 <p align="center">
-  🔭 <b>Status:</b> Em busca de oportunidades em Análise de Dados e Cibersegurança / Seeking opportunities in Data Analysis and Cybersecurity<br>
+  🔭 <b>Status:</b> Em busca de oportunidades em Cibersegurança / In search of opportunities in Cybersecurity<br>
    <br>
   📫 <b>Contato:</b> <a href="https://www.linkedin.com/in/viniciusoliveira1s">LinkedIn</a>
 </p>
