@@ -1,51 +1,26 @@
-### Olá, eu sou o Vinicius! 👋 | Hello, I am Vinicius! 👋
+<div align="center">
 
-Bem-vindo(a) ao meu perfil. | Welcome to my profile.
-
----
-
-### 💻 Sobre mim | About me
-
-<p align="center">
-   🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Mackenzie</b>.<br>
-   <br><br>
-   <i>"Aplico tecnologia de forma prática e estratégica, preparado para projetos desafiadores."</i>
-</p>
-
-<p align="center">
-   ---
-</p>
-
-<p align="center">
-   🎓 <b>Systems Analysis and Development</b> student at <b>Mackenzie University</b>.<br>
-   <br><br>
-   <i>"I apply technology in a practical and strategic way, ready for challenging IT projects."</i>
-</p>
-
-<br>
-
-<p align="center">
-  🔭 <b>Status:</b> Em busca de oportunidades em Cibersegurança / In search of opportunities in Cybersecurity<br>
-   <br>
-  📫 <b>Contato:</b> <a href="https://www.linkedin.com/in/viniciusoliveira1s">LinkedIn</a>
-</p>
+# Vinicius
+**Software Development and Cybersecurity**
 
 ---
 
-### 🚀 Minhas Habilidades | My Skills
+*Transforming military discipline into digital resilience and data security.*<br>
+*Transformando a disciplina militar em resiliência digital e segurança de dados.*
 
-Aqui estão algumas das tecnologias com as quais eu trabalho: | Here are some of the technologies I work with:
+[LinkedIn](https://www.linkedin.com/in/viniciusoliveira1s) • São Paulo, BRA 📍
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-   <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-   <br>
-   <br>
-   <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=pre-commit&logoColor=white" alt="Cybersecurity">
-</p>
+---
 
+</div>
+
+### 🛡️ Sobre mim | About me
+**Estudante de Análise e Desenvolvimento de Sistemas na Universidade Mackenzie**. Minha trajetória conta com a base sólida de disciplina e estratégia do **Exército Brasileiro (2017-2020)**. Atualmente foco em Desenvolvimento de Software e Segurança Cibernética
+
+**Systems Analysis and Development student at Mackenzie University**. My background is built on the solid foundation of discipline and strategy from the **Brazilian Army (2017-2020)**. Currently focused on Software Development and Cybersecurity.
+
+### 🛠️ Expertise Técnica | Tech Stack
+```sql
+-- Principais tecnologias e ferramentas | Main technologies
+> Languages: Python, Java, JavaScript, HTML5
+> Database:  MySQL
