@@ -15,9 +15,9 @@
 </div>
 
 ### 🛡️ Sobre mim | About me
-**Estudante de Análise e Desenvolvimento de Sistemas na Universidade Mackenzie**. Minha trajetória conta com a base sólida de disciplina e estratégia do **Exército Brasileiro (2017-2020)**. Atualmente foco em Desenvolvimento de Software e Segurança Cibernética
+**Estudante de Análise e Desenvolvimento de Sistemas na Universidade Mackenzie**
 
-**Systems Analysis and Development student at Mackenzie University**. My background is built on the solid foundation of discipline and strategy from the **Brazilian Army (2017-2020)**. Currently focused on Software Development and Cybersecurity.
+**Systems Analysis and Development student at Mackenzie University**
 
 ### 🛠️ Expertise Técnica | Tech Stack
 ```sql
