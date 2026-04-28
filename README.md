@@ -24,5 +24,5 @@ Currently in my second semester of Systems Analysis and Development. During this
 ```sql
 -- Principais tecnologias e ferramentas | Main technologies
 > Languages: Python, Java, JavaScript, HTML5
-> Tools: VS Code, IntelliJ, GIT
 > Database:  MySQL
+> Tools: VS Code, IntelliJ, GIT
