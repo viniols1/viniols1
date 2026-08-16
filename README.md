@@ -16,10 +16,10 @@
 
 ### 🛡️ *Sobre mim | About me*
 ***Estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie***.<br>
-*Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas. Neste período, meu foco está voltado para a base da Engenharia de Software e Programação de Sistemas, aprofundando conhecimentos em áreas fundamentais como Sistemas Operacionais, Web Mobile e Matemática aplicada à tecnologia.*
+*Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, com foco em Estrutura de Dados, Comunicação de Dados, Programação de Sistemas II, Banco de Dados, Desenvolvimento de Sistemas II e Princípios de Empreendedorismo.*
 
 ***Student of Systems Analysis and Development at Mackenzie Presbyterian University***.<br>
-*Currently in my second semester of Systems Analysis and Development. During this period, my focus is on the foundations of Software Engineering and Systems Programming, deepening my knowledge in fundamental areas such as Operating Systems, Web and Mobile, and Mathematics applied to technology.*
+*Currently in the third semester of Systems Analysis and Development, focusing on Data Structures, Data Communication, Systems Programming II, Databases, Systems Development II, and Entrepreneurship Principles.*
 ### 🛠️ *Expertise Técnica | Tech Stack*
 ```sql
 -- Principais tecnologias e ferramentas | Main technologies
